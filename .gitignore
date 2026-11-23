@@ -1,0 +1,11 @@
+*
+!*.*
+!*/
+*.exe
+*.out
+*.o
+*.in
+*.ans
+.vscode/
+.idea/
+EOF
